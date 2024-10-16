@@ -1,0 +1,48 @@
+
+Bean.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 76, 99
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 72
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 40
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 76, 81
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 20, 57
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 76, 67
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1

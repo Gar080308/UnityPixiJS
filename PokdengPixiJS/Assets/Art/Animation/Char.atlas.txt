@@ -1,0 +1,125 @@
+
+Char.png
+size: 4001,1809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bead0
+  rotate: true
+  xy: 1078, 280
+  size: 742, 1044
+  orig: 742, 1044
+  offset: 0, 0
+  index: -1
+Bead0Shadow
+  rotate: false
+  xy: 2144, 629
+  size: 794, 1178
+  orig: 794, 1178
+  offset: 0, 0
+  index: -1
+Bead1
+  rotate: false
+  xy: 2940, 667
+  size: 808, 1140
+  orig: 808, 1140
+  offset: 0, 0
+  index: -1
+Bead1Shadow
+  rotate: true
+  xy: 2, 275
+  size: 747, 1074
+  orig: 747, 1074
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 1024
+  size: 783, 2140
+  orig: 814, 2157
+  offset: 0, 0
+  index: -1
+CenterRibbon
+  rotate: true
+  xy: 2, 53
+  size: 220, 552
+  orig: 236, 552
+  offset: 16, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 2062, 2
+  size: 298, 178
+  orig: 298, 178
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 3577, 139
+  size: 409, 526
+  orig: 409, 526
+  offset: 0, 0
+  index: -1
+LeftEarring
+  rotate: true
+  xy: 3577, 7
+  size: 43, 228
+  orig: 63, 231
+  offset: 16, 1
+  index: -1
+LeftHand
+  rotate: true
+  xy: 2940, 23
+  size: 642, 635
+  orig: 693, 675
+  offset: 51, 38
+  index: -1
+LeftRibbon
+  rotate: false
+  xy: 3750, 1010
+  size: 235, 797
+  orig: 238, 797
+  offset: 0, 0
+  index: -1
+Necklace
+  rotate: false
+  xy: 556, 33
+  size: 383, 240
+  orig: 383, 240
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 1078, 54
+  size: 224, 597
+  orig: 224, 635
+  offset: 0, 38
+  index: -1
+RightEarring
+  rotate: true
+  xy: 3577, 52
+  size: 85, 238
+  orig: 87, 242
+  offset: 2, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 2124, 182
+  size: 445, 732
+  orig: 445, 733
+  offset: 0, 1
+  index: -1
+RightRibbon
+  rotate: true
+  xy: 1677, 9
+  size: 269, 383
+  orig: 269, 406
+  offset: 0, 1
+  index: -1
+Ruby
+  rotate: true
+  xy: 3750, 793
+  size: 215, 249
+  orig: 215, 251
+  offset: 0, 1
+  index: -1

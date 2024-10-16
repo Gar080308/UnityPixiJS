@@ -1,0 +1,279 @@
+
+superwin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+05
+  rotate: true
+  xy: 188, 704
+  size: 600, 154
+  orig: 600, 154
+  offset: 0, 0
+  index: -1
+1/li_00000
+  rotate: false
+  xy: 500, 960
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00001
+  rotate: false
+  xy: 2, 66
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00002
+  rotate: false
+  xy: 304, 377
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00003
+  rotate: false
+  xy: 404, 175
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00004
+  rotate: false
+  xy: 706, 377
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00005
+  rotate: false
+  xy: 794, 758
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00006
+  rotate: false
+  xy: 806, 175
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00007
+  rotate: false
+  xy: 1108, 404
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00008
+  rotate: true
+  xy: 1208, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00009
+  rotate: true
+  xy: 1410, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00010
+  rotate: true
+  xy: 1335, 1199
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00011
+  rotate: false
+  xy: 902, 997
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00012
+  rotate: true
+  xy: 902, 1199
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00013
+  rotate: true
+  xy: 1104, 1199
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+1/li_00014
+  rotate: false
+  xy: 1196, 795
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+2/bi_00000
+  rotate: false
+  xy: 727, 603
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00001
+  rotate: false
+  xy: 879, 606
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00002
+  rotate: false
+  xy: 1031, 606
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00003
+  rotate: false
+  xy: 404, 23
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00004
+  rotate: false
+  xy: 556, 23
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00005
+  rotate: false
+  xy: 708, 23
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+2/bi_00006
+  rotate: false
+  xy: 1183, 606
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EffDanGradingKing4.png
+  rotate: false
+  xy: 1510, 537
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 2, 1306
+  size: 520, 376
+  orig: 520, 376
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 524, 1162
+  size: 520, 376
+  orig: 520, 376
+  offset: 0, 0
+  index: -1
+fangkuang
+  rotate: false
+  xy: 961, 1601
+  size: 736, 434
+  orig: 736, 434
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 500, 814
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: true
+  xy: 642, 712
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+jb1
+  rotate: true
+  xy: 344, 813
+  size: 491, 154
+  orig: 491, 154
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 344, 705
+  size: 167, 106
+  orig: 167, 106
+  offset: 0, 0
+  index: -1
+jb3
+  rotate: false
+  xy: 513, 744
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 1684
+  size: 957, 351
+  orig: 957, 351
+  offset: 0, 0
+  index: -1
+quan_00000
+  rotate: false
+  xy: 646, 832
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+shuzikuang
+  rotate: false
+  xy: 188, 579
+  size: 537, 123
+  orig: 537, 123
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: true
+  xy: 2, 570
+  size: 734, 184
+  orig: 734, 184
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 1699, 1519
+  size: 516, 282
+  orig: 516, 282
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 717, 755
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 268
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

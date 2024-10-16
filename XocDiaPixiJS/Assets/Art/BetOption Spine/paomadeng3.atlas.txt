@@ -1,0 +1,76 @@
+
+paomadeng3.png
+size: 560,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/1
+  rotate: false
+  xy: 452, 5
+  size: 106, 108
+  orig: 110, 111
+  offset: 2, 2
+  index: -1
+3/10
+  rotate: false
+  xy: 342, 113
+  size: 107, 110
+  orig: 110, 112
+  offset: 2, 2
+  index: -1
+3/2
+  rotate: false
+  xy: 451, 115
+  size: 107, 108
+  orig: 109, 111
+  offset: 2, 2
+  index: -1
+3/3
+  rotate: false
+  xy: 342, 3
+  size: 108, 108
+  orig: 111, 110
+  offset: 2, 1
+  index: -1
+3/4
+  rotate: true
+  xy: 233, 5
+  size: 111, 107
+  orig: 112, 110
+  offset: 1, 2
+  index: -1
+3/5
+  rotate: false
+  xy: 2, 3
+  size: 115, 105
+  orig: 117, 109
+  offset: 1, 2
+  index: -1
+3/6
+  rotate: false
+  xy: 223, 118
+  size: 115, 105
+  orig: 117, 106
+  offset: 1, 1
+  index: -1
+3/7
+  rotate: true
+  xy: 2, 110
+  size: 113, 108
+  orig: 114, 111
+  offset: 1, 2
+  index: -1
+3/8
+  rotate: true
+  xy: 112, 112
+  size: 111, 109
+  orig: 112, 111
+  offset: 1, 1
+  index: -1
+3/9
+  rotate: true
+  xy: 119, 2
+  size: 108, 112
+  orig: 111, 113
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6045e40d8242085264ce58b14d6ce9e0:12bdee1f6774d62aff64e35514cda7b4:27cfb508b6f46293acd4b1b9157c2e2e$
+#
+:format=40300
+:texture=Big.png
+:size=4096x4096
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+10_1;3524;3255;338;239; 0.5;0.5; 0;0;0;0
+10_2;3524;3501;558;398; 0.5;0.5; 0;0;0;0
+10_3;3129;2047;807;310; 0.5;0.5; 0;0;0;0
+Group 5;1572;81;1541;727; 0.5;0.5; 0;0;0;0
+Group 10;1791;2364;1726;1726; 0.5;0.5; 0;0;0;0
+Group 10_1 1;1954;993;675;675; 0.5;0.5; 0;0;0;0
+Group 10_2;6;519;1115;1115; 0.5;0.5; 0;0;0;0
+Group 10_3;6;1641;1611;1611; 0.5;0.5; 0;0;0;0
+Hướng dẫn;3129;1677;690;175; 0.5;0.5; 0;0;0;0
+Layer 44 1;6;3259;1778;831; 0.5;0.5; 0;0;0;0
+light;1624;1675;1498;682; 0.5;0.5; 0;0;0;0
+Lịch sử cược;3129;1859;744;181; 0.5;0.5; 0;0;0;0
+Overlay;1128;815;819;819; 0.5;0.5; 0;0;0;0
+ribbon 1;6;138;1559;374; 0.5;0.5; 0;0;0;0
+Xếp Hạng 1;3524;3906;566;184; 0.5;0.5; 0;0;0;0

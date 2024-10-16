@@ -1,0 +1,1 @@
+const SpinSpine_SR = await Assets.load("assets/SA.json");const SpinSpine = new Spine(SpinSpine_SR.spineData);SpinSpine.x = 1080;SpinSpine.y = 950;SpinSpine.scale.set(6,6);

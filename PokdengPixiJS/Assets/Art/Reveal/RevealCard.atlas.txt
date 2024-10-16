@@ -1,0 +1,69 @@
+
+RevealCard.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 693
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+Card1
+  rotate: true
+  xy: 2, 402
+  size: 289, 253
+  orig: 294, 254
+  offset: 5, 0
+  index: -1
+Card2
+  rotate: false
+  xy: 257, 118
+  size: 258, 283
+  orig: 262, 283
+  offset: 4, 0
+  index: -1
+Glass
+  rotate: false
+  xy: 257, 403
+  size: 282, 288
+  orig: 282, 288
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 330, 806
+  size: 154, 213
+  orig: 162, 217
+  offset: 0, 1
+  index: -1
+Mask
+  rotate: true
+  xy: 2, 111
+  size: 289, 253
+  orig: 294, 254
+  offset: 5, 0
+  index: -1
+People
+  rotate: false
+  xy: 239, 33
+  size: 131, 76
+  orig: 132, 76
+  offset: 1, 0
+  index: -1
+Plus
+  rotate: false
+  xy: 2, 2
+  size: 139, 107
+  orig: 140, 107
+  offset: 0, 0
+  index: -1
+Skip
+  rotate: true
+  xy: 143, 10
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1

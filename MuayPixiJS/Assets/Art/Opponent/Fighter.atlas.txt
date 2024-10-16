@@ -1,0 +1,97 @@
+
+Fighter.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 184
+  size: 250, 143
+  orig: 257, 143
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 254, 322
+  size: 174, 84
+  orig: 177, 84
+  offset: 2, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 430, 334
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+HairLeft
+  rotate: false
+  xy: 348, 38
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+HairRight
+  rotate: true
+  xy: 394, 210
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+HairTop
+  rotate: false
+  xy: 254, 408
+  size: 202, 88
+  orig: 205, 88
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 329
+  size: 250, 167
+  orig: 250, 167
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 11
+  size: 113, 171
+  orig: 113, 171
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: true
+  xy: 254, 215
+  size: 105, 138
+  orig: 105, 138
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 387, 102
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 117, 35
+  size: 108, 147
+  orig: 108, 147
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: true
+  xy: 254, 119
+  size: 94, 131
+  orig: 94, 131
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 227, 19
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1

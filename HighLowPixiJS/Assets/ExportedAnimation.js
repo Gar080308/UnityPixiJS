@@ -1,0 +1,1 @@
+const JPSpine_SR = await Assets.load("assets/superwin.json");const JPSpine = new Spine(JPSpine_SR.spineData);JPSpine.x = 920;JPSpine.y = 837;JPSpine.scale.set(2,2);

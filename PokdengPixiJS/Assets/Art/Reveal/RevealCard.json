@@ -1,0 +1,332 @@
+{
+"skeleton": {
+	"hash": "13n5M5KG0TfqdFhdQnfEr99NyBg",
+	"spine": "3.8.75",
+	"x": -165.88,
+	"y": -163.04,
+	"width": 328.92,
+	"height": 326.08,
+	"images": "./Reveal/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "BoneGlass", "parent": "root", "y": 2.44, "transform": "noRotationOrReflection" },
+	{ "name": "BoneCard2", "parent": "root", "length": 41.94, "rotation": 72.47, "x": 8, "y": 13.8 },
+	{ "name": "BoneCard1", "parent": "root", "length": 106.53, "rotation": 141.43, "x": 67.51, "y": -115.14 },
+	{ "name": "BonePlus", "parent": "root", "length": 63.38, "rotation": 90.49, "x": 1.43, "y": -52.85 },
+	{ "name": "BoneSkip", "parent": "root", "x": -0.3, "y": -0.72 }
+],
+"slots": [
+	{ "name": "BG", "bone": "root", "attachment": "BG" },
+	{ "name": "BoneCard2", "bone": "BoneCard2", "attachment": "Card2" },
+	{ "name": "Card1", "bone": "BoneCard1", "attachment": "Card1" },
+	{ "name": "People", "bone": "root", "attachment": "People" },
+	{ "name": "Glass", "bone": "BoneGlass", "attachment": "Glass" },
+	{ "name": "MainMask", "bone": "BoneGlass", "color": "ff0000ff", "attachment": "MainMask" },
+	{ "name": "Mask", "bone": "BoneCard1", "attachment": "Mask" },
+	{ "name": "J", "bone": "BoneCard1", "attachment": "J" },
+	{ "name": "Glass2", "bone": "BoneGlass", "attachment": "Glass" },
+	{ "name": "PathBone", "bone": "root", "attachment": "PathBone" },
+	{ "name": "Plus", "bone": "BonePlus", "attachment": "Plus" },
+	{ "name": "Skip", "bone": "BoneSkip", "attachment": "Skip" }
+],
+"path": [
+	{
+		"name": "PathBone",
+		"bones": [ "BoneGlass" ],
+		"target": "PathBone",
+		"rotateMix": 0
+	}
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Card1": {
+				"Card1": { "x": 133.01, "y": -29.92, "rotation": -140.95, "width": 294, "height": 254 }
+			},
+			"BG": {
+				"BG": { "rotation": 0.01, "width": 326, "height": 326 }
+			},
+			"J": {
+				"J": { "x": 88.8, "y": -25.83, "rotation": -100.67, "width": 162, "height": 217 }
+			},
+			"Mask": {
+				"Mask": { "x": 132.52, "y": -29.01, "rotation": -141.42, "width": 294, "height": 254 }
+			},
+			"Glass2": {
+				"Glass": { "x": 44.3, "y": -47.22, "rotation": 0.01, "width": 282, "height": 288 }
+			},
+			"Glass": {
+				"Glass": { "x": 43.33, "y": -47.99, "rotation": 0.01, "width": 282, "height": 288 }
+			},
+			"BoneCard2": {
+				"Card2": { "x": -12.06, "y": 14.73, "rotation": -72.46, "width": 262, "height": 283 }
+			},
+			"Skip": {
+				"Skip": { "x": 0.3, "y": 0.72, "width": 99, "height": 94 }
+			},
+			"MainMask": {
+				"MainMask": {
+					"type": "clipping",
+					"end": "MainMask",
+					"vertexCount": 73,
+					"vertices": [ -14.68, 66.63, -24.29, 63.95, -32.95, 59.78, -39.6, 55.4, -46.75, 49.84, -51.59, 44.94, -55, 40.53, -58.44, 35.56, -62.19, 28.52, -65.64, 20.64, -67.89, 13.36, -69.22, 6.59, -69.3, -0.61, -69.39, -8.37, -68.61, -13.93, -67.47, -19.66, -65.48, -25.96, -63.38, -31.46, -61.32, -36.04, -58.8, -40.46, -55.56, -44.96, -52.1, -49.46, -47.06, -53.88, -42.37, -58.35, -37.22, -61.86, -29.48, -65.98, -23.61, -68.42, -17.38, -70.29, -11.24, -71.75, -5.41, -72.4, 0.6, -72.42, 7.97, -72.27, 14.67, -71.5, 21.07, -70.27, 27.39, -68.27, 34.49, -65.13, 38.95, -62.46, 42.77, -59.65, 46.32, -56.62, 50.42, -52.62, 54.03, -48.86, 57.37, -44.2, 59.65, -41.3, 61.6, -37.76, 63.31, -34.52, 64.99, -31.11, 66.95, -26.88, 68.3, -22.9, 69.49, -18.72, 70.62, -14.05, 71.02, -8.04, 71.09, -4.24, 71.16, -0.74, 70.96, 4.26, 70.46, 8.73, 69.89, 13.02, 68.29, 18.33, 66.88, 22.3, 65.46, 26.22, 63.21, 30.83, 60.96, 34.61, 58.51, 38.58, 55.22, 42.49, 50.94, 47.44, 46.99, 51.16, 42.9, 54.13, 38.94, 56.83, 34.4, 59.64, 27.39, 63.15, 20.33, 65.51, 12.53, 67.13, 4.68, 67.76, -4.98, 67.9 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"PathBone": {
+				"PathBone": {
+					"type": "path",
+					"closed": true,
+					"lengths": [ 46.37, 114.05, 185.02, 241.82, 331.22, 361.05 ],
+					"vertexCount": 18,
+					"vertices": [ -53.41, 20.08, -48.11, 41.4, -43.39, 60.4, -35.37, 71.08, -21.46, 77.22, 2.85, 87.95, 33.1, 77.1, 44.05, 71.04, 51.08, 67.15, 81.6, 46.07, 74.89, 11.73, 69.76, -14.57, 58.63, -18.59, 38.36, -27.54, 14.58, -38.04, -24.01, -33.38, -43.11, -7.72, -50.04, 1.6 ]
+				}
+			},
+			"People": {
+				"People": { "x": -2.92, "y": -98.4, "width": 132, "height": 76 }
+			},
+			"Plus": {
+				"Plus": { "x": 52.86, "y": 0.98, "rotation": -90.49, "width": 140, "height": 107 }
+			}
+		}
+	}
+],
+"animations": {
+	"Compare": {
+		"slots": {
+			"Skip": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Plus": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"People": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"BoneCard1": {
+				"scale": [
+					{},
+					{ "time": 1, "x": 1.049 },
+					{ "time": 2 }
+				]
+			},
+			"BoneCard2": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 14.73 },
+					{ "time": 2 }
+				]
+			}
+		},
+		"path": {
+			"PathBone": {
+				"position": [
+					{},
+					{ "time": 2, "position": 1 }
+				]
+			}
+		}
+	},
+	"CompareAll": {
+		"slots": {
+			"Skip": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Plus": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"People": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 1, "color": "ffffffbd" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"BoneCard2": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 14.73 },
+					{ "time": 2 }
+				]
+			},
+			"BoneCard1": {
+				"scale": [
+					{},
+					{ "time": 1, "x": 1.049 },
+					{ "time": 2 }
+				]
+			}
+		},
+		"path": {
+			"PathBone": {
+				"position": [
+					{},
+					{ "time": 2, "position": 1 }
+				]
+			}
+		}
+	},
+	"Draw": {
+		"slots": {
+			"Glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"MainMask": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Mask": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Skip": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"PathBone": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"J": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Plus": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 1, "color": "4dff00ff" }
+				]
+			},
+			"Glass2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"People": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"BoneCard2": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "y": 11.56 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "y": 11.56 },
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "y": 11.56 },
+					{ "time": 1 },
+					{ "time": 1.1667, "y": 11.56 },
+					{ "time": 1.3333 },
+					{ "time": 1.5, "y": 11.56 },
+					{ "time": 1.6667 },
+					{ "time": 1.8333, "y": 11.56 },
+					{ "time": 2 }
+				]
+			},
+			"BonePlus": {
+				"translate": [
+					{ "y": -35.38 },
+					{ "time": 2, "y": 33.75 }
+				]
+			},
+			"BoneCard1": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 1.05 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "x": 1.05 },
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 1.05 },
+					{ "time": 1 },
+					{ "time": 1.1667, "x": 1.05 },
+					{ "time": 1.3333 },
+					{ "time": 1.5, "x": 1.05 },
+					{ "time": 1.6667 },
+					{ "time": 2, "x": 1.033 }
+				]
+			}
+		}
+	},
+	"Skip": {
+		"slots": {
+			"Glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"MainMask": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Mask": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"J": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Plus": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Glass2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"People": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"BoneSkip": {
+				"translate": [
+					{ "x": -39.7, "y": -39.28 },
+					{ "time": 0.3333, "x": 40.3, "y": -39.28 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.5, "y": 1.5 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

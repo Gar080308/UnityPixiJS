@@ -1,0 +1,39 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bd13a26f0e3f8245a1994eeea2c5f0f2:75eaab39e5cbf8fdc594efaa5d2fd319:e1f0e26506f3717e0e49ce327834532a$
+#
+:format=40300
+:texture=MiniPoker.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Blank;622;393;280;370; 0.5;0.5; 0;0;0;0
+BottomLace;576;424;35;136; 0.5;0.5; 0;0;0;0
+CARD FRAME copy;5;1279;789;290; 0.5;0.5; 0;0;0;0
+CARD;5;18;273;365; 0.5;0.5; 0;0;0;0
+Ellipse 6 copy;927;743;48;48; 0.5;0.5; 0;0;0;0
+Ellipse 6;927;801;50;54; 0.5;0.5; 0;0;0;0
+Group 12;5;697;476;102; 0.5;0.5; 0;0;0;0
+Group 18 copy 2;631;910;286;127; 0.5;0.5; 0;0;0;0
+Group 18 copy;631;773;286;127; 0.5;0.5; 0;0;0;0
+Group 18;288;355;278;126; 0.5;0.5; 0;0;0;0
+Group 22;804;1403;210;166; 0.5;0.5; 0;0;0;0
+Group 26;491;570;121;229; 0.5;0.5; 0;0;0;0
+Group 27;5;1579;987;464; 0.5;0.5; 0;0;0;0
+HISTORY;804;1197;184;196; 0.5;0.5; 0;0;0;0
+Hướng dẫn;631;1047;367;98; 0.4986376021798365;0.23469387755102045; 0;0;0;0
+JACKPOT HISTORY;288;491;184;196; 0.5;0.5; 0;0;0;0
+Layer 34;631;1155;151;114; 0.5;0.5; 0;0;0;0
+Lịch sử nổ hũ;576;283;435;100; 0.49885057471264366;0.27; 0;0;0;0
+Lịch sử;5;597;243;90; 0.4897119341563786;0.30000000000000004; 0;0;0;0
+QUAY;5;1044;616;225; 0.5;0.5; 0;0;0;0
+RULE;288;77;184;196; 0.5;0.5; 0;0;0;0
+stop;5;809;616;225; 0.5;0.5; 0;0;0;0
+Triangle 1 2;927;865;62;102; 0.5;0.5; 0;0;0;0
+Triangle 1 copy;927;977;78;60; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,139 @@
+
+Hit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baokuoa_0000
+  rotate: false
+  xy: 891, 461
+  size: 129, 140
+  orig: 662, 662
+  offset: 314, 219
+  index: -1
+baokuoa_0001
+  rotate: true
+  xy: 837, 603
+  size: 163, 185
+  orig: 662, 662
+  offset: 280, 217
+  index: -1
+baokuoa_0002
+  rotate: false
+  xy: 239, 20
+  size: 181, 199
+  orig: 662, 662
+  offset: 268, 216
+  index: -1
+baokuoa_0003
+  rotate: false
+  xy: 422, 86
+  size: 189, 214
+  orig: 662, 662
+  offset: 262, 214
+  index: -1
+baokuoa_0004
+  rotate: false
+  xy: 353, 302
+  size: 198, 226
+  orig: 662, 662
+  offset: 256, 211
+  index: -1
+baokuoa_0005
+  rotate: true
+  xy: 2, 24
+  size: 209, 235
+  orig: 662, 662
+  offset: 246, 209
+  index: -1
+baokuoa_0006
+  rotate: true
+  xy: 553, 320
+  size: 208, 190
+  orig: 662, 662
+  offset: 245, 260
+  index: -1
+baokuoa_0007
+  rotate: false
+  xy: 745, 358
+  size: 144, 173
+  orig: 662, 662
+  offset: 241, 248
+  index: -1
+ci_0000
+  rotate: false
+  xy: 811, 122
+  size: 52, 234
+  orig: 331, 331
+  offset: 139, 51
+  index: -1
+ciaa_0000
+  rotate: false
+  xy: 257, 221
+  size: 94, 278
+  orig: 331, 331
+  offset: 116, 30
+  index: -1
+guangyuna_0000
+  rotate: false
+  xy: 587, 768
+  size: 259, 254
+  orig: 662, 662
+  offset: 201, 201
+  index: -1
+shoujia_0000
+  rotate: false
+  xy: 2, 756
+  size: 308, 266
+  orig: 409, 409
+  offset: 54, 66
+  index: -1
+shoujia_0001
+  rotate: false
+  xy: 2, 501
+  size: 292, 253
+  orig: 409, 409
+  offset: 62, 77
+  index: -1
+shoujia_0002
+  rotate: false
+  xy: 312, 768
+  size: 273, 254
+  orig: 409, 409
+  offset: 71, 85
+  index: -1
+shoujia_0003
+  rotate: false
+  xy: 2, 235
+  size: 253, 264
+  orig: 409, 409
+  offset: 81, 81
+  index: -1
+shoujia_0004
+  rotate: true
+  xy: 312, 530
+  size: 236, 274
+  orig: 409, 409
+  offset: 88, 77
+  index: -1
+shoujia_0005
+  rotate: true
+  xy: 588, 533
+  size: 233, 247
+  orig: 409, 409
+  offset: 92, 85
+  index: -1
+shoujia_0006
+  rotate: true
+  xy: 613, 116
+  size: 202, 196
+  orig: 409, 409
+  offset: 101, 102
+  index: -1
+shoujia_0007
+  rotate: false
+  xy: 848, 824
+  size: 173, 198
+  orig: 409, 409
+  offset: 103, 100
+  index: -1
