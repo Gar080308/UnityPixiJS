@@ -18037,8 +18037,7 @@ MonoBehaviour:
   - "1. \u0E44\u0E1E\u0E48\u0E43\u0E19\u0E21\u0E37\u0E2D\u0E02\u0E2D\u0E07\u0E40\u0E08\u0E49\u0E32\u0E21\u0E37\u0E2D
     \u0E16\u0E49\u0E32\u0E21\u0E37\u0E2D\u0E02\u0E2D\u0E07\u0E40\u0E08\u0E49\u0E32\u0E21\u0E37\u0E2D\u0E21\u0E35\u0E04\u0E30\u0E41\u0E19\u0E19\u0E15\u0E48\u0E33\u0E01\u0E27\u0E48\u0E32
     4 \u0E04\u0E30\u0E41\u0E19\u0E19 \u0E40\u0E08\u0E49\u0E32\u0E21\u0E37\u0E2D\u0E08\u0E30\u0E15\u0E49\u0E2D\u0E07\u0E08\u0E31\u0E48\u0E27\u0E44\u0E1E\u0E48\u0E40\u0E1E\u0E34\u0E48\u0E21"
-  - 1. The Banker's hand. If banker hands is below 4 point, the banker will be forced
-    to draw a card.
+  - 1. The Banker's hand. If below 4 point, the banker will be forced to draw a card.
 --- !u!114 &365356589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18059,8 +18058,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 1. The Bankers hand. Banker may select any players hand and hit compare
-    to show their hand before drawing a card.
+  m_text: 1. The Banker's hand. If below 4 point, the banker will be forced to draw
+    a card.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6de5aa8012f8e400bbf14fc5b5463a68, type: 2}
   m_sharedMaterial: {fileID: -7616293782980742649, guid: 6de5aa8012f8e400bbf14fc5b5463a68,
@@ -53165,7 +53164,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -492.5, y: -380}
+  m_AnchoredPosition: {x: -492.5, y: -335}
   m_SizeDelta: {x: 1085, y: 50}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1189040035
@@ -53209,8 +53208,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2. If banker hands is below 4 point, the banker will be forced to draw
-    a card.
+  m_text: 2. Banker may select any player's hand and hit compare to show their hand
+    before drawing a card.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6de5aa8012f8e400bbf14fc5b5463a68, type: 2}
   m_sharedMaterial: {fileID: -7616293782980742649, guid: 6de5aa8012f8e400bbf14fc5b5463a68,
