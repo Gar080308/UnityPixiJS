@@ -1,0 +1,1 @@
+const lImages = []; const lTexts = [];

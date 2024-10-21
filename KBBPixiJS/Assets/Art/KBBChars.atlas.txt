@@ -1,0 +1,139 @@
+
+KBBChars.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0ArmLeft
+  rotate: false
+  xy: 782, 224
+  size: 221, 176
+  orig: 221, 176
+  offset: 0, 0
+  index: -1
+0ArmRight
+  rotate: true
+  xy: 567, 605
+  size: 191, 194
+  orig: 191, 194
+  offset: 0, 0
+  index: -1
+0Body
+  rotate: true
+  xy: 397, 216
+  size: 373, 383
+  orig: 373, 383
+  offset: 0, 0
+  index: -1
+0FaceNormal
+  rotate: false
+  xy: 914, 1161
+  size: 299, 263
+  orig: 299, 263
+  offset: 0, 0
+  index: -1
+0Paper
+  rotate: true
+  xy: 1215, 1275
+  size: 149, 162
+  orig: 149, 162
+  offset: 0, 0
+  index: -1
+0Rock
+  rotate: true
+  xy: 1215, 1162
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+0Sad
+  rotate: true
+  xy: 1151, 999
+  size: 160, 176
+  orig: 160, 176
+  offset: 0, 0
+  index: -1
+0Scissor
+  rotate: true
+  xy: 1151, 858
+  size: 139, 168
+  orig: 139, 168
+  offset: 0, 0
+  index: -1
+0Smile
+  rotate: false
+  xy: 1243, 785
+  size: 181, 71
+  orig: 181, 71
+  offset: 0, 0
+  index: -1
+1ArmRight
+  rotate: false
+  xy: 782, 402
+  size: 299, 394
+  orig: 299, 399
+  offset: 0, 5
+  index: -1
+1Body
+  rotate: false
+  xy: 2, 591
+  size: 563, 833
+  orig: 563, 833
+  offset: 0, 0
+  index: -1
+1FaceNormal
+  rotate: true
+  xy: 2, 212
+  size: 377, 393
+  orig: 377, 393
+  offset: 0, 0
+  index: -1
+1HappyBottom
+  rotate: false
+  xy: 914, 964
+  size: 235, 195
+  orig: 235, 195
+  offset: 0, 0
+  index: -1
+1HappyTop
+  rotate: false
+  xy: 567, 1102
+  size: 345, 322
+  orig: 345, 322
+  offset: 0, 0
+  index: -1
+1Paper
+  rotate: false
+  xy: 914, 798
+  size: 179, 164
+  orig: 179, 164
+  offset: 0, 0
+  index: -1
+1Rock
+  rotate: false
+  xy: 1095, 722
+  size: 146, 134
+  orig: 146, 134
+  offset: 0, 0
+  index: -1
+1SadBottom
+  rotate: false
+  xy: 1005, 240
+  size: 233, 160
+  orig: 233, 160
+  offset: 0, 0
+  index: -1
+1SadTop
+  rotate: false
+  xy: 567, 798
+  size: 345, 302
+  orig: 345, 302
+  offset: 0, 0
+  index: -1
+1Scissor
+  rotate: false
+  xy: 1083, 589
+  size: 198, 131
+  orig: 198, 131
+  offset: 0, 0
+  index: -1
