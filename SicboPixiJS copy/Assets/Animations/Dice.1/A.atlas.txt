@@ -1,0 +1,97 @@
+
+test2.png
+size: 620,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 136
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 98, 136
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 194, 136
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 290, 136
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 3
+  rotate: true
+  xy: 2, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat duoi 2
+  rotate: true
+  xy: 84, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 1
+  rotate: true
+  xy: 166, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 2
+  rotate: true
+  xy: 248, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 3
+  rotate: true
+  xy: 330, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 4
+  rotate: true
+  xy: 540, 189
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 5
+  rotate: true
+  xy: 540, 55
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 6
+  rotate: true
+  xy: 412, 35
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 386, 169
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
