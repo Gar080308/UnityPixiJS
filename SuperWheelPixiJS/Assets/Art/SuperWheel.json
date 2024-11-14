@@ -144,6 +144,22 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":97},
 	"sourceSize": {"w":104,"h":97}
 },
+"BulbOff.png":
+{
+	"frame": {"x":2293,"y":1,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"BulbOn.png":
+{
+	"frame": {"x":2273,"y":1078,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
 "close.png":
 {
 	"frame": {"x":1918,"y":1710,"w":142,"h":145},
@@ -379,8 +395,8 @@
 	"version": "1.1",
 	"image": "SuperWheel.png",
 	"format": "RGBA8888",
-	"size": {"w":2317,"h":1868},
+	"size": {"w":2330,"h":1868},
 	"scale": "0.5",
-	"smartupdate": "$TexturePacker:SmartUpdate:243213ea71024652d6e9307658ba651b:d9d67cb9299985c8bae23dec781c4082:4348c458303d0068c831ec492333643f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:af03402cdf7deb1aac5ccd2027170009:9e3023832934d41c5f8cf1b26d0a0b01:4348c458303d0068c831ec492333643f$"
 }
 }

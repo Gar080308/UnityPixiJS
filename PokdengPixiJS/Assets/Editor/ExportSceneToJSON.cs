@@ -200,7 +200,7 @@ public class ExportSceneToJSON : Editor
                 var pos = obj.Value.anchoredPosition;
                 var scale = obj.Value.localScale;
                 var sizeDelta = obj.Value.sizeDelta;
-                s += $"const {obj.Key} = new TextInput({{ input: {{ fontSize: '64px', padding: '28px', width: '{sizeDelta.x}px', color: '#26272E' }}, box: {{ default: {{ fill: 15264243, rounded: 72, stroke: {{ color: 13356768, width: 3 }} }}, focused: {{ fill: 14803950, rounded: 72, stroke: {{ color: 11251654, width: 3 }} }}, disabled: {{ fill: 14408667, rounded: 72 }} }} }}); {obj.Key}.placeholder = '...';";
+                s += $"const {obj.Key} = new TextInput({{ input: {{ fontSize: '30px', padding: '10px', width: '{sizeDelta.x}px', color: '#26272E' }}, box: {{ default: {{ fill: 15264243, rounded: 18, stroke: {{ color: 13356768, width: 3 }} }}, focused: {{ fill: 14803950, rounded: 18, stroke: {{ color: 11251654, width: 3 }} }}, disabled: {{ fill: 14408667, rounded: 18 }} }} }}); {obj.Key}.placeholder = '...';";
                 s += $"{obj.Key}.width = {sizeDelta.x};";
                 s += $"{obj.Key}.height = {sizeDelta.y};";
                 s += $"{obj.Key}.x = {pos.x - sizeDelta.x/2};";

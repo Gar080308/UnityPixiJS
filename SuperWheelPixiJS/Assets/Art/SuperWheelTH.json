@@ -144,6 +144,22 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":97},
 	"sourceSize": {"w":104,"h":97}
 },
+"BulbOff.png":
+{
+	"frame": {"x":1502,"y":2129,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"BulbOn.png":
+{
+	"frame": {"x":1540,"y":2129,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
 "close.png":
 {
 	"frame": {"x":1901,"y":1,"w":142,"h":145},
@@ -429,6 +445,6 @@
 	"format": "RGBA8888",
 	"size": {"w":2044,"h":2336},
 	"scale": "0.5",
-	"smartupdate": "$TexturePacker:SmartUpdate:182bded4b4e5e30f4fbe5d1d94931d3c:b243ccd6986b598e20c33a4a20c43230:60472fb1b7ed8bb6c425a9720e7fd759$"
+	"smartupdate": "$TexturePacker:SmartUpdate:033a95de408edeffced690e11156299b:6bb5f0579938801d72cc97175307ac69:60472fb1b7ed8bb6c425a9720e7fd759$"
 }
 }
