@@ -101,9 +101,9 @@ public class ExportSceneToJSON : Editor
                         s += $"const {obj.Key} = new Sprite{threeD}(sheet.textures[\"{img.sprite.name}.png\"]);";
                     else
                     {
-                        //s += $"const {obj.Key} = new AnimatedSprite(sheet.animations['TakeThisOut']);";
+                        s += $"const {obj.Key} = new AnimatedSprite(sheet.animations['{img.sprite.name.Split("_")[0]}']);";
                         Debug.Log("Manually add this : ");
-                        Debug.Log($"const {obj.Key} = new AnimatedSprite(sheet.animations['']);");
+                        Debug.Log($"const {obj.Key} = new AnimatedSprite(sheet.animations['{img.sprite.name.Split("_")[0]}']);");
                     }
                         
                     s += $"{obj.Key}.anchor.x = {pivot.x};";
