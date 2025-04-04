@@ -89,7 +89,7 @@ public class ExportSceneToJSON : Editor
                 if (img.type == Image.Type.Sliced)
                 { 
                     var sizeDelta = obj.Value.sizeDelta;
-                   s += $"const {obj.Key} = new NineSlicePlane(sheet.{img.sprite.name}, {img.sprite.border.x} ,{img.sprite.border.y} ,{img.sprite.border.z} ,{img.sprite.border.w});";
+                   s += $"const {obj.Key} = new NineSlicePlane(sheet.textures[\"{img.sprite.name}.png\"], {img.sprite.border.x} ,{img.sprite.border.y} ,{img.sprite.border.z} ,{img.sprite.border.w});";
                    s += $"{obj.Key}.width = {sizeDelta.x};";
                    s += $"{obj.Key}.height = {sizeDelta.y};";
                    s += $"{obj.Key}.x = {pos.x - sizeDelta.x/2};";
@@ -98,7 +98,8 @@ public class ExportSceneToJSON : Editor
                 else
                 {
                     if (!obj.Value.GetComponent<Animator>())
-                        s += $"const {obj.Key} = new Sprite{threeD}(sheet.{img.sprite.name});";
+                        //s += $"const {obj.Key} = new Sprite{threeD}(sheet.{img.sprite.name});";
+                        s += $"const {obj.Key} = new Sprite{threeD}(sheet.textures[\"{img.sprite.name}.png\"]);";
                     else
                     {
                         //s += $"const {obj.Key} = new AnimatedSprite(sheet.animations['TakeThisOut']);";
