@@ -130,6 +130,7 @@ public class ExportSceneToJSON : Editor
                 s += $"{obj.Key}.tint = '#{ColorUtility.ToHtmlStringRGBA(img.color)}';";
                 s += $"{obj.Key}.alpha = {img.color.a};";
                 s += $"{obj.Key}.rotation = {-obj.Value.localEulerAngles.z / 180 * 3.14f};";
+                s += $"{obj.Key}.eventMode='none';";
             }
 
             var btn = obj.Value.GetComponent<Button>();
@@ -177,6 +178,7 @@ public class ExportSceneToJSON : Editor
                     s += $"{obj.Key}.anchor.x = 1;";
                 s += $"{obj.Key}.anchor.y = {1-pivot.y};";
                 s += $"{obj.Key}.scale.set({scale.x},{scale.y});";
+                s += $"{obj.Key}.eventMode='none';";
             }
             
             var spine = obj.Value.GetComponent<SkeletonGraphic>();
